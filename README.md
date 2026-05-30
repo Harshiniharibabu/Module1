@@ -21,8 +21,9 @@ else:
 ```
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot (110)" src="https://github.com/user-attachments/assets/6e4a8fdd-fd11-4ff4-93c1-cb0283739783" />
+<img width="1544" height="1012" alt="image" src="https://github.com/user-attachments/assets/4ece58cc-55d4-4e86-9b22-21630dfd3ccc" />
 
+   
 
 ## Result
 Thus, the program is executed successfully.
@@ -60,7 +61,8 @@ print("d:", d)
 ```
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot (112)" src="https://github.com/user-attachments/assets/75745dfb-0440-4f3e-9dd7-da1f7fe254ca" />
+<img width="1545" height="1013" alt="image" src="https://github.com/user-attachments/assets/fccf3012-23a5-4fc3-993f-ccb8614c2b33" />
+
 
 ## Result
 Thus, the program is executed successfully.
@@ -83,7 +85,8 @@ print('a')
 ```
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/94ccfab6-2dfa-4860-87cf-c5c57a2d8880" />
+<img width="1535" height="1021" alt="image" src="https://github.com/user-attachments/assets/6477df6e-8cb2-4ca4-9f7e-27a8eb38f7b3" />
+
 
 ## Result
 Thus, the program is executed successfully.
@@ -115,7 +118,8 @@ print("Imaginary part:",x.imag)
 ```
 
 ## Output
-<img width="1920" height="1080" alt="Screenshot (114)" src="https://github.com/user-attachments/assets/d1282d50-37d4-4e4c-92f8-ecc528684e79" />
+<img width="1919" height="1014" alt="image" src="https://github.com/user-attachments/assets/36861cd1-fb68-4425-872f-d31c5befaaac" />
+
 
 ## Result
 Thus, the program is executed successfully.
@@ -136,8 +140,8 @@ men_stepped_on_the_moon=input("Enter a string: ")
 print(men_stepped_on_the_moon)
 ```
 ## Output
-<img width="1920" height="1080" alt="Screenshot (115)" src="https://github.com/user-attachments/assets/e3962992-aea0-4f77-b052-14275304ae8d" />
+<img width="1915" height="1017" alt="image" src="https://github.com/user-attachments/assets/b1bbc888-b5c9-4769-8704-d39e3a793aa8" />
+
 
 ## Result
 Thus, the program is executed successfully.
-
